@@ -47,20 +47,27 @@ My name is Guilherme Larga and I'm a game developer. I created this page to show
 <img src="https://i.imgur.com/uQbbDKd.png">
 </p>
 
+<p align="justify">
+  
 **Planet Aid** was the first game I worked on and it was developen in XNA, which is no longer supported. The game is similar to the Angry Birds formula where the player would have to launch a flask, controlling its force and direction, reaching the end goal. Maps are composed by different planets that would serve as both an obstacle and as a gravitational force that would change the trajectory of the flask.
 
 This project was done by 3 students in the first semester of university and my role was to programme the game physics and design the levels. 
 
 You can have access to the game project [here](https://github.com/SirDonutz/PlanetAid-Code).
 
+</p>
 
 ## Space Directive
+
+<p align="justify">
 
 **Space Directive** is a traditional arcade space shooter where the player has the option to design their own levels and play them.
 
 It was developed for Windows and Android allowing for players to save their accounts and transfer them to the different devices, keeping track of their data.
 
 This project was made by a team of 3 students on Unity. I was a Programmer for the project and implemented the game physics, such as collision detection, movement, shooting and designed and programmed the patterns of the final bosses.
+
+</p>
 
 <p align="center">
 
@@ -72,3 +79,4 @@ This project was made by a team of 3 students on Unity. I was a Programmer for t
 
 </p>
 
+You can have access to the game project [here](https://github.com/Guister/Space-Directive).
