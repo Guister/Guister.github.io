@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+<style>
+div.a {
+    text-align: center;
+}
+ </style>
+
+*/## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Guister/Guister.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files...
 
@@ -34,7 +40,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.*/
 
 
 # Hello!
@@ -45,7 +51,7 @@ My name is Guilherme Larga and I'm a game developer. I created this page to show
 
 ![Planet Aid](https://i.imgur.com/uQbbDKd.png)
 
-**Planet Aid** was the first game I worked on and it was developen in XNA, which is no longer supported. The game is similar to the Angry Birds formula where the player would have to launch a flask, controlling its force and direction, reaching the end goal. Several planets are placed in the map and would serve as both an obstacle and as a gravitational force that would change the trajectory of the flask.
+**Planet Aid** was the first game I worked on and it was developen in XNA, which is no longer supported. The game is similar to the Angry Birds formula where the player would have to launch a flask, controlling its force and direction, reaching the end goal. Maps are composed by different planets that would serve as both an obstacle and as a gravitational force that would change the trajectory of the flask.
 
 This project was done by 3 students in the first semester of university and my role was to programme the game physics and design the levels. 
 
@@ -53,5 +59,20 @@ You can have access to the game project [here](https://github.com/SirDonutz/Plan
 
 
 ## Space Directive
+
+**Space Directive** is a traditional arcade space shooter where the player has the option to design their own levels and play them.
+
+It was developed for Windows and Android allowing for players to save their accounts and transfer them to the different devices, keeping track of their data.
+
+This project was made by a team of 3 students on Unity. I was a Programmer for the project and implemented the game physics, such as collision detection, movement, shooting and designed and programmed the patterns of the final bosses.
+
+<center> Arcade </center>
+![Space Directive Arcade](https://i.imgur.com/YU0zLYp.png)
+
+<div class="a"> Level Editor </div>
+![Space Directive Level Editor](https://i.imgur.com/Ifr4PCj.png)
+
+![Space Directive Level Editor](https://i.imgur.com/QTNokLu.png)
+
 
 
