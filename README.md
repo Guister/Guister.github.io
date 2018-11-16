@@ -42,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 My name is Guilherme Larga and I'm a game developer. I created this page to showcase the projects I have worked on!
 
 
-<center>![Planet Aid](https://i.imgur.com/uQbbDKd.png)</center>
+    ![Planet Aid](https://i.imgur.com/uQbbDKd.png)
 
 **Planet Aid** is a game
 
