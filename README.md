@@ -104,3 +104,22 @@ You can have access to the game project [here](https://github.com/Guister/Space-
 <img src="https://i.imgur.com/0iKyHtl.png">
 </p>
 
+<p align="justify">
+
+Puzzles include pressing a switch in the 3D world to open a door in the 2D world and shrinking the 2D character by moving the 3D character away fomm the screen (farther). I was involved in desgning the levels and puzzles as well as programming the synched movement of both characters and platforming.
+
+</p>
+
+You can have access to the game project [here](https://github.com/Guister/2D3D-Project).
+
+## AR Runner
+
+<p align="justify"> <strong>AR Runner</strong> is a mobile game developed for Android that uses Augmented Reality. The player can play it anywhere with a flat surface. Similar to mobile "Runner" games, the player will have to dodge the obstacles in its way, while trying to collect coins for a better score.
+  
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/bbusohl.png">
+</p>
+
+<p align="justify"> It was developed by myself in Unity using Vuforia for the Augmented Reality.
