@@ -53,9 +53,9 @@ My name is Guilherme Larga and I'm a game developer. I created this page to show
 
 This project was done by 3 students in the first semester of university and my role was to programme the game physics and design the levels. 
 
-You can have access to the game project[here](https://github.com/SirDonutz/PlanetAid-Code).
-
 </p>
+
+You can have access to the game project [here](https://github.com/SirDonutz/PlanetAid-Code).
 
 ## Space Directive
 
@@ -81,4 +81,16 @@ This project was made by a team of 3 students on Unity. I was a Programmer for t
 
 You can have access to the game project [here](https://github.com/Guister/Space-Directive).
 
+
+## Dimensional Adventure
+
+**Dimensional Adventure** is a plaftormer made by 2 students using Unity. It uses both 2D and 3D environments. The player controls 2 characters at the same time using the same commands. One lives in a 2D world while the other lives in a 3D world. The player has to 
+avoid obstacles and solve puzzles using both characters to interact between eachother.
+<p align="center">
+<img src="https://i.imgur.com/aXMqX6r.png">
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/0iKyHtl.png">
+</p>
 
