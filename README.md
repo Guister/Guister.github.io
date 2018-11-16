@@ -41,8 +41,17 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 My name is Guilherme Larga and I'm a game developer. I created this page to showcase the projects I have worked on!
 
+## Planet Aid
+
 ![Planet Aid](https://i.imgur.com/uQbbDKd.png)
 
-**Planet Aid** is a game
+**Planet Aid** was the first game I worked on and it was developen in XNA, which is no longer supported. The game is similar to the Angry Birds formula where the player would have to launch a flask, controlling its force and direction, reaching the end goal. Several planets are placed in the map and would serve as both an obstacle and as a gravitational force that would change the trajectory of the flask.
 
-[Planet Aid](https://github.com/SirDonutz/PlanetAid-Code)
+This project was done by 3 students in the first semester of university and my role was to programme the game physics and design the levels. 
+
+You can have access to the game project [here](https://github.com/SirDonutz/PlanetAid-Code).
+
+
+## Space Directive
+
+
