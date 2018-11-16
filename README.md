@@ -53,7 +53,7 @@ My name is Guilherme Larga and I'm a game developer. I created this page to show
 
 This project was done by 3 students in the first semester of university and my role was to programme the game physics and design the levels. 
 
-You can have access to the game project [here](https://github.com/SirDonutz/PlanetAid-Code).
+You can have access to the game project[here](https://github.com/SirDonutz/PlanetAid-Code).
 
 </p>
 
@@ -80,3 +80,5 @@ This project was made by a team of 3 students on Unity. I was a Programmer for t
 </p>
 
 You can have access to the game project [here](https://github.com/Guister/Space-Directive).
+
+
