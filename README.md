@@ -47,7 +47,7 @@ My name is Guilherme Larga and I'm a game developer. I created this page to show
 <img src="https://i.imgur.com/uQbbDKd.png">
 </p>
   
-**Planet Aid** <p align="justify"> was the first game I worked on and it was developen in XNA, which is no longer supported. The game is similar to the Angry Birds formula where the player would have to launch a flask, controlling its force and direction, reaching the end goal. Maps are composed by different planets that would serve as both an obstacle and as a gravitational force that would change the trajectory of the flask.</p>
+<p align="justify"><strong>Planet Aid</strong> was the first game I worked on and it was developen in XNA, which is no longer supported. The game is similar to the Angry Birds formula where the player would have to launch a flask, controlling its force and direction, reaching the end goal. Maps are composed by different planets that would serve as both an obstacle and as a gravitational force that would change the trajectory of the flask.</p>
 
 <p align="justify">
   
@@ -59,7 +59,7 @@ You can have access to the game project [here](https://github.com/SirDonutz/Plan
 
 ## Space Directive
 
-**Space Directive** <p align="justify"> is a traditional arcade space shooter where the player has the option to design their own levels and play them.
+<p align="justify"> <strong>Space Directive</strong> is a traditional arcade space shooter where the player has the option to design their own levels and play them.
   
 </p>
 
@@ -90,7 +90,7 @@ You can have access to the game project [here](https://github.com/Guister/Space-
 
 ## Dimensional Adventure
 
-**Dimensional Adventure** <p align="justify"> is a plaftormer made by 2 students using Unity. It uses both 2D and 3D environments. The player controls 2 characters at the same time using the same commands. One lives in a 2D world while the other lives in a 3D world. The player has to avoid obstacles and solve puzzles using both characters to interact between eachother.
+<p align="justify"> <strong>Dimensional Adventure</strong> is a plaftormer made by 2 students using Unity. It uses both 2D and 3D environments. The player controls 2 characters at the same time using the same commands. One lives in a 2D world while the other lives in a 3D world. The player has to avoid obstacles and solve puzzles using both characters to interact between eachother.
   
 </p>
 
