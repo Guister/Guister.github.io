@@ -62,11 +62,13 @@ It was developed for Windows and Android allowing for players to save their acco
 
 This project was made by a team of 3 students on Unity. I was a Programmer for the project and implemented the game physics, such as collision detection, movement, shooting and designed and programmed the patterns of the final bosses.
 
-![Space Directive Arcade](https://i.imgur.com/YU0zLYp.png)
+<p align="center">
 
-![Space Directive Level Editor](https://i.imgur.com/Ifr4PCj.png)
+<img src="https://i.imgur.com/YU0zLYp.png">
 
-![Space Directive Level Editor](https://i.imgur.com/QTNokLu.png)
+<img src="https://i.imgur.com/Ifr4PCj.png">
 
+<img src="https://i.imgur.com/L9VghFe.png">
 
+</p>
 
