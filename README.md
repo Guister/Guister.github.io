@@ -122,4 +122,24 @@ You can have access to the game project [here](https://github.com/Guister/2D3D-P
 <img src="https://i.imgur.com/bbusohl.png">
 </p>
 
-<p align="justify"> It was developed by myself in Unity using Vuforia for the Augmented Reality.
+<p align="justify"> It was developed by myself in Unity using Vuforia for the Augmented Reality. Moving left and right the player will have to dodge the barrels coming their way that are spawning and moving increasingly faster.
+  
+</p>
+
+You can have access to the game project [here](https://github.com/Guister/AR-Project).
+
+## Car Matches
+
+<p align="center">
+<img src="https://i.imgur.com/7uj5CtH.png">
+</p>
+
+<p align="justify"> <strong>Car Matches</strong> is a multiplayer game developed in Unreal Engine by myself. Much like Rocket League the player will have to score a goal against their opponent while driving their cars. 
+
+</p>
+
+<p align="justify"> The emphasis of this project wasn't the game itself but the multiplayer aspect. I managed to create a network using both peer to peer and client/server architectures where 2 players can connect and play together.
+  
+  </p>
+
+You can have access to the game project [here](https://github.com/Guister/Multiplayer-Project-2).
