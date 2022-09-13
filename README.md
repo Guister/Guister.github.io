@@ -110,5 +110,5 @@ You can have access to the game project [here](https://github.com/Guister/Multip
 ## PuyoPuyo
 
 <p align="center">
-<img src="https://imgur.com/a/xaP0VdD">
+<img src="https://i.imgur.com/R7VpDun.png">
 </p>
