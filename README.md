@@ -114,3 +114,7 @@ You can have access to the game project [here](https://github.com/Guister/Multip
 </p>
 
 This project consists of a PuyoPuyo game developed from scratch in C++ using the SDL framework. It is my recent work and the first game I developed outside of work and after graduating. It behaves exactly as a game of Puyo Puyo should.
+ 
+  </p>
+
+You can have access to the game project [here](https://github.com/Guister/PuyoPuyo).
