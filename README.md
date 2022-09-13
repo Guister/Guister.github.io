@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Guilherme Larga and I'm a game developer. I created this page to showcase the projects I have worked on!
+My name is Guilherme Larga and I'm a software and game developer. I created this page to showcase the projects I have worked on!
 
 ## Planet Aid
 
