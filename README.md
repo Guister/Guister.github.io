@@ -118,3 +118,17 @@ This project consists of a PuyoPuyo game developed from scratch in C++ using the
   </p>
 
 You can have access to the game project [here](https://github.com/Guister/PuyoPuyo).
+
+
+
+## Lane Detection
+
+<p align="center">
+<img src="https://i.imgur.com/TY1WPg2.png"> <img src="https://i.imgur.com/6e7BhTO.png">
+</p>
+
+For a project, I was in charge of identifying car lanes from several cloudpoint data. I worked in C++ and used Open3D for the task. It was my first try tackling something more data science related, and I'm pretty happy how it turned out. There is a report on the directory that goes into details about the experience.
+
+  </p>
+
+You can have access to the project [here](https://github.com/Guister/Lane-Detection).
